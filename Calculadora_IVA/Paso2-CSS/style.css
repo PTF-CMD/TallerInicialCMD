@@ -1,5 +1,5 @@
 header {
-	height: 92vh;
+	height: 87vh;
 }
 
 h1 {
@@ -47,4 +47,8 @@ button:hover {
 	color: white;
 	background-color: red;
 	transition: 0.2s
+}
+
+footer {
+	text-align: center;
 }
