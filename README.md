@@ -17,23 +17,23 @@ Para poder editar un archivo de tipo html, css, o javascript debemos utilizar un
 Cabe destacar que estos son solo algunos de los cientos de editores de texto plano que van a poder encontrar y que la mayoría nos dan la posibilidad de descargar agregados para usar otras funciones desarrolladas por la comunidad. Es una cuestión de comodidad así que sean libres de elegir el que mas les guste.
 
 ### HTML
-* 
-* 
-* 
+* asdf
+* asdf
 
 ### CSS
-* 
-* 
 * 
 
 ### JavaScript
 * 
-* 
-* 
 
 
+## Proyectos de ejemplo
 
-
+*  [Calculadora de IVA](https://github.com/JuanIgnacioCuiule/TallerInicialCMD/tree/ProyectosEjemplo/Calculadora_IVA) (click para ver código) 
+*  [Lista de Compras](https://github.com/JuanIgnacioCuiule/TallerInicialCMD/tree/ProyectosEjemplo/Lista_de_compras) (click para ver código) 
+*  [Piedra, Papel o Tijera](https://github.com/JuanIgnacioCuiule/TallerInicialCMD/tree/ProyectosEjemplo/Piedra_Papel_Tijera) (click 
+para ver código) 
+*  [Reloj](https://github.com/JuanIgnacioCuiule/TallerInicialCMD/tree/ProyectosEjemplo/Reloj) (click para ver código)
 
 ## Dudas
 
