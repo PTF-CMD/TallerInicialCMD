@@ -37,3 +37,10 @@ li:hover {
 	text-decoration: line-through;
 	cursor: pointer;
 }
+
+.btn-agregar-hover {
+	color: #FFF;
+	background-color: #449D44;
+	border-color: #398439;
+	transition: 0.2s;
+}
