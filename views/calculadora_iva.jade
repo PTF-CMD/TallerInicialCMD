@@ -1,0 +1,20 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    title Calculadora de IVA
+    link(rel='stylesheet', type='text/css', href='stylesheets/style-calc.css')
+    script(type='text/javascript', src='https://code.jquery.com/jquery-2.2.3.js')
+  body
+    header
+      h1 Calculadora de IVA
+      p.mensaje
+        | Introducir el precio sin iva de distintos productos para obtener el precio total con iva incluido
+      .input-box
+        input(placeholder='Ingresar precio...')
+        button#btn-agregar Agregar Producto
+        br
+        button#btn-total Obtener monto total
+    footer
+      h6 Proyecto de ejemplo para el taller inicial del CMD
+    script(type='text/javascript', src='js/main-calc.js')
